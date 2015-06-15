@@ -1,6 +1,9 @@
+call pathogen#infect()
+call pathogen#helptags()
+
+:colorscheme molokai
 :syntax enable
 
-colorscheme monokai
 set ts=2 sw=2 et
 
 :set nu
@@ -17,3 +20,4 @@ imap ;divtag <div></div><left><left><left><left><left><left>
 imap ;ctag class=""<left>
 imap ;ftag function (){}<left><left><left><left>
 imap ;clog console.log(""); <left><left><left><left>
+
