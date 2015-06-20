@@ -12,6 +12,7 @@ set ts=2 sw=2 et
 :set smartindent 
 :set scrolloff=4
 
+set laststatus=2
 
 imap ;ptag <p></p><left><left><left><left>
 imap ;h1tag <h1></h1><left><left><left><left><left>
