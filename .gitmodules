@@ -22,3 +22,6 @@
 [submodule "bundle/seti.vim"]
 	path = bundle/seti.vim
 	url = https://github.com/trusktr/seti.vim
+[submodule "/home/matthew/.vim/bundle/typescript-vim"]
+	path = /home/matthew/.vim/bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
